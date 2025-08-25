@@ -3,6 +3,8 @@ I'm a senior Java and Kotlin developer who loves gaming, I'm <img alt="Autistic 
 
 I love contributing to open-source projects, specially the ones that helps Minecraft community somehow.
 
+![](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Polyana-Fontes&show_icons=true&include_all_commits=true&theme=radical)
+
 My most popular projects were:
 * [PowerNukkit](https://github.com/PowerNukkitX/PowerNukkitX)
 * [MineCity](https://github.com/GameModsBR/MineCity)
